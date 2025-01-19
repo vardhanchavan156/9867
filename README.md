@@ -65,7 +65,6 @@ project-directory/
 ├── README.md
 └── outputs/
     ├── predictions.csv
-    ├── eda_visualizations.pdf
     └── presentation.pptx
 ```
 
