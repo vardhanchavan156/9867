@@ -84,7 +84,7 @@ project-directory/
 # Count the values for the job column
 ![image](https://github.com/user-attachments/assets/2927128a-cfe6-4c1d-b1d6-1344f8a33d0a)
 # PowerBI Dashboard
-![image](https://github.com/vardhanchavan156/9867/blob/d843e73f1036d0b8a7d2d9785244dfc6680769f2/Power%20BI%20Dashboard.png)
+![image](https://github.com/vardhanchavan156/9867/blob/cf662c32fd559ccf7560632ab3e9b1423696167e/Power%20BI%20Dashboard%20Home%20Page.png)
 
 # Hackathon Presentation
 [Link Text](https://drive.google.com/file/d/1PAcdZzQTfvoAkApopQKouyTdMkMB7kFl/view?usp=drive_link)
