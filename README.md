@@ -86,6 +86,8 @@ project-directory/
 # PowerBI Dashboard
 ![image](https://github.com/vardhanchavan156/9867/blob/cf662c32fd559ccf7560632ab3e9b1423696167e/Power%20BI%20Dashboard%20Home%20Page.png)
 
+![image](https://github.com/vardhanchavan156/9867/blob/922af45a57b74d84e594763910c36656d203d081/Power%20BI%20Dashboard%20Overview%20Page.png)
+
 # Hackathon Presentation
 [Link Text](https://drive.google.com/file/d/1PAcdZzQTfvoAkApopQKouyTdMkMB7kFl/view?usp=drive_link)
 
